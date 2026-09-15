@@ -7,4 +7,4 @@
  Para clonar use o comando git clone + URL e para ver o que há seria o git status.
  
  
- ESTE REPOSITORIO NAO CONTEM DADO OPERACIONAL DE OM
+ ESTE REPOSITORIO NAO CONTEM DADO OPERACIONAL DE OM.
